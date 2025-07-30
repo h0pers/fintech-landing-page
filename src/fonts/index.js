@@ -1,0 +1,6 @@
+import './DM_Sans/stylesheet.css'
+import './Poppins/stylesheet.css'
+import './Integral/stylesheet.css'
+import './Helvetica/stylesheet.css'
+import './Metropolis/stylesheet.css'
+import './ClashGrotesk_Complete/stylesheet.css'
